@@ -32,7 +32,7 @@ docker run -d -p 5000:5000 \
 Abra o navegador em:
 http://localhost:5000/swagger/index.html
 
-![Swagger funcionando]()
+![Swagger funcionando](https://github.com/monica88lima/Estudos-Dev/blob/main/docker/API.png)
 
 
 🗃️ Banco de dados SQLite
