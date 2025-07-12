@@ -1,0 +1,23 @@
+#  Diretórios gerados pela build
+bin/
+obj/
+
+# Configurações do Visual Studio e VS Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+#  Arquivos de log e sistema
+*.log
+
+#  Arquivos de publicação
+publish/
+
+
+
+# Dependências externas (NuGet auto restaurável)
+packages/
