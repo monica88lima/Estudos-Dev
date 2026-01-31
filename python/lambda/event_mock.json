@@ -1,0 +1,10 @@
+{
+  "Records": [
+    {
+      "body": "{\"identificado\":\"123\",\"codigo\":\"BLOQ01\",\"databloqueio\":\"2026-01-30T14:22:10\",\"data_criacao\":\"2026-01-30T13:00:00\",\"hora_bloqueio\":\"14:22:10\"}"
+    },
+    {
+      "body": "{\"identificado\":\"456\",\"codigo\":\"DESB01\",\"datadesbloqueio\":\"2026-01-30T15:40:00\",\"data_criacao\":\"2026-01-30T13:10:00\",\"hora_desbloqueio\":\"15:40:00\",\"idOrdem\":\"ORD998\",\"divergencia\":false}"
+    }
+  ]
+}
